@@ -1,0 +1,1 @@
+This repo contains images for the Sumo repository, so they won't be downloaded with git clone
